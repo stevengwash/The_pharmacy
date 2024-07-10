@@ -1,2 +1,2 @@
 # The_pharmacy
-a pharmacitical system.
+a pharmaceutical system.
